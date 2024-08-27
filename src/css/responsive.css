@@ -1,0 +1,19 @@
+@media (max-width: 425px) {
+  h1 {
+    font-size: 34px;
+    margin-bottom: 20px;
+  }
+
+  .input-tarefa {
+    width: 75%;
+  }
+
+  .container-add-tarefa,
+  .tarefas {
+    width: 90%;
+  }
+
+  .tarefa {
+    width: 100%;
+  }
+}
